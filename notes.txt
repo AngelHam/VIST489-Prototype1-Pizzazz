@@ -1,0 +1,7 @@
+1 the first ligths and resistors puzzle is set to green but it doesnt complete and doesnt work. 
+
+2 The bouncing back and forth glitch with the playerball happens in the elevator up and down puzzle.
+
+not sure if the correct build was tested but the 2 things to look for are the color resistor value not being set to -1 in the first one. in the second 
+one it MIGHT be because the build was tested on a low power laptop with all the settings turned down to low? framerate may affected it?
+In any case if it is framerate like i suspect at this time that may be grounds for redoing the entire ball transfer system with the playerball tbh.
