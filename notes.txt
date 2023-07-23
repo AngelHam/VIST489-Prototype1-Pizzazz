@@ -1,25 +1,20 @@
 Current Bugs / TODO fix:
 
-The 2nd puzzle in area 2 visual rips like with cosmetic stuff around
-The first puzzle in area 2 backgrounds nearby glitch a bit
-theres this small dark hole in area 1 underneath the platform the one where it doesnt have a dude underneath
-First person mode? camera slightly in front, triggered by zooming in all the way? could be nice
-Elevator level sequencer pattern could just be too confusing, not a point to have it like that we could just simplify especially since its hard for new players to recognize the pattern + the jump in translation is shocking
+
+	• The 2nd puzzle in area 2 visual rips like with cosmetic stuff around
+	• The first puzzle in area 2 backgrounds nearby glitch a bit
+	• theres this small dark hole in area 1 underneath the platform the one where it doesnt have a dude underneath
+	• Playerball faces a weird direction when traveling along the paths
+Floor panels the area 2 puzzles (especially last puzzle need to be redone so they are alligned and straight)
 
 
+• (partially done) First person mode? camera slightly in front, triggered by zooming in all the way? could be nice --- ((changed min spring arm target length to be 0, at 0, we turn off the playermodel visuals..
+	• Red particle attack is a lil buggy in this mode
+• Elevator level sequencer pattern could just be too confusing, not a point to have it like that we could just simplify especially since its hard for new players to recognize the pattern + the jump in translation is shocking
+• (partially done) Settings page option that has the ability to alter how fast the camera pans when you look around
+	• No sync between Pause Menu and Main Menu.. They slightly update but visually they are not set
+	• Similar important issue, onLoad of next map, the settings for Camera Sensitivity, since it is tied to a newly loaded PlayerBot, do not save and revert to default
+• 2nd shop, none of the items I purchased were saved??? (Quick remedy is to not show the shop again after area2...)
 
-playerball doesnt have the skin as main character....
-maybe make character more visible or somethign too?
-Boxes should be pushable more so... if in area 2 i jump at fast speeds and they dont fall over something is wrong with the game :/
-Floor panels in each of the puzzles (especially last puzzle need to be redone so they are alligned and straight)
-Area 2 first light puzzle needs to have its wire cosmetic reset its broken for some reason rn
-GAME BREAKING BUG: Last puzzle is unsolvable? 
-Area 2 place default playerball position not on the roof lol but above the ceiling since players can walk up there
-Trinket should be placed in one of the destroyable boxes outside area 2 puzzle with first light since unlikely for ppl to hit them
-Area 2 Bridge, death level is too high, if i wait till like 50%+ of it falling down at start i can actually die while ontop of the bridge at the start
-area 2 bridge lasers should be smaller/closer together inward... if you die right on the edge of the bridge you still retain input in your character walking around?? but the fact you can walk into them is weird on the bridge
-
-
-2nd shop, none of the items I purchased were saved???
-
-Demo end: The main robot guy's text glitches the fuck out after he talks??
+• Demo end: The main robot guy's text glitches the fuck out after he talks??
+GAME BREAKING BUG: Last puzzle is unsolvable? I put in first an incorrect solution, then a correct one, and the puzzle failed... 
