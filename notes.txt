@@ -5,16 +5,13 @@ Current Bugs / TODO fix:
 	• The first puzzle in area 2 backgrounds nearby glitch a bit
 	• theres this small dark hole in area 1 underneath the platform the one where it doesnt have a dude underneath
 	• Playerball faces a weird direction when traveling along the paths
-Floor panels the area 2 puzzles (especially last puzzle need to be redone so they are alligned and straight)
+	Floor panels the area 2 puzzles (especially last puzzle need to be redone so they are alligned and straight)
 
-
-• (partially done) First person mode? camera slightly in front, triggered by zooming in all the way? could be nice --- ((changed min spring arm target length to be 0, at 0, we turn off the playermodel visuals..
-	• Red particle attack is a lil buggy in this mode
-• Elevator level sequencer pattern could just be too confusing, not a point to have it like that we could just simplify especially since its hard for new players to recognize the pattern + the jump in translation is shocking
-• (partially done) Settings page option that has the ability to alter how fast the camera pans when you look around
+• Settings page option that has the ability to alter how fast the camera pans when you look around
 	• No sync between Pause Menu and Main Menu.. They slightly update but visually they are not set
-	• Similar important issue, onLoad of next map, the settings for Camera Sensitivity, since it is tied to a newly loaded PlayerBot, do not save and revert to default
-• 2nd shop, none of the items I purchased were saved??? (Quick remedy is to not show the shop again after area2...)
+	Similar important issue, onLoad of next map, the settings for Camera Sensitivity, since it is tied to a newly loaded PlayerBot, do not save and 	revert to default
+• First person mode..
+	Red particle attack is a lil buggy in this mode
 
 • Demo end: The main robot guy's text glitches the fuck out after he talks??
-GAME BREAKING BUG: Last puzzle is unsolvable? I put in first an incorrect solution, then a correct one, and the puzzle failed... 
+	I can't get it to replicate???
